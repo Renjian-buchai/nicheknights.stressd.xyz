@@ -1,6 +1,7 @@
 ---
 title: Clutterknights
 layout: default
+nav_order: 2
 ---
 
 # Clutterknights

@@ -9,3 +9,8 @@ aux_links:
 
 ruby sass: 
   quiet_deps: true
+
+callouts: 
+  note: 
+    title: Note
+    color: purple
