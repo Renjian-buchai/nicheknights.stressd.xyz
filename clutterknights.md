@@ -20,10 +20,12 @@ Clutterknights yay
 
 ## Archetype List
 
-- Tacticians
-- Trapmasters
-- Artificers
-- Shapers
+| Archetype | Summon |
+| --- | --- |
+| Tacticians | Tactical Point |
+| Trapmasters | Traps |
+| Artificers | Support Devices |
+| Shapers | Summons |
 
 ## Acceptable Operators via skills
 
