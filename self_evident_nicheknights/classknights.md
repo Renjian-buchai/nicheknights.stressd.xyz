@@ -30,6 +30,6 @@ parent: Self-evident Nicheknights
 
 | Niche | Summary |
 | --- | --- |
-| Splashknights | Splash casters only* |
-| Mysticknights | Mystic casters only* |
-| Mechknights | Mech-accord casters only* |
+| Splashknights | Splash casters only |
+| Mysticknights | Mystic casters only |
+| Mechknights | Mech-accord casters only |

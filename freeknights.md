@@ -35,4 +35,5 @@ Working for my operators? Imagine that.
 | Orchid | 1-7 |
 | Lancet-2 | TR-10 |
 | Shaw | 1-10 |
+| THRM-EX | 7-2 |
 | [Welfare Operators](https://arknights.fandom.com/wiki/Operator/Welfare) | - |
