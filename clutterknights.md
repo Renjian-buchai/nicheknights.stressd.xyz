@@ -6,7 +6,7 @@ nav_order: 2
 
 # Clutterknights
 
-Clutterknights yay
+"If I can't stand there, no one else can"
 
 ## Rules
 
