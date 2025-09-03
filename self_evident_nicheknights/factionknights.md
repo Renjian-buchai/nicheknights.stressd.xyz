@@ -32,7 +32,7 @@ parent: Self-evident Nicheknights
 | Yan knights | Yan Operators only; May include Sui operators |
 | Sui knights | Sui Operators only |  
 
-### Factionknights I have no evidence for
+## Factionknights I have no evidence for
 
 | Niche | Summary |
 | --- | --- |

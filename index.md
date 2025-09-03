@@ -4,7 +4,7 @@ layout: home
 nav_order: 0
 ---
 
-# Masochism Wiki 
+# Masochism Wiki
 
 Nicheknights yay
 

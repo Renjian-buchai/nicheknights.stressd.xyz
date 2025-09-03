@@ -12,7 +12,7 @@ Proposed by: [u/unfortunatelymade](https://www.reddit.com/user/unfortunatelymade
 
 ## Rules
 
-- Only operators 'below B- rank' (Based on [this list](https://web.archive.org/web/20240613032632/https://gamepress.gg/arknights/tier-list/arknights-operator-tier-list)) can be used  
+- Only operators 'below B- rank'[^1] can be used  
   This ensures that there is at more than 1 medic, 1 defender, and a marksman sniper.
 - Only the lowest ranked operators of each subclass can be used  
   That is, if the lowest-ranked core caster is C-tier, you can only use C-tier core casters.
@@ -62,3 +62,7 @@ This list was compiled by u/unfortunatelymade
 ## Tips
 
 As there are no vanguards available, and teams full of overpriced operators, Jackie is important as she is cheap.
+
+[^1]: Based on [this list](https://web.archive.org/web/20240613032632/https://gamepress.gg/arknights/tier-list/arknights-operator-tier-list). Alternatively, you can use [Cesith's Tier List](https://www.youtube.com/@Cesith)[^2].
+
+[^2]: The list is updated every update, so just choose the newest one.
