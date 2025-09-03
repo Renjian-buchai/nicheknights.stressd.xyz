@@ -1,7 +1,8 @@
 ---
 title: Contact
 layout: about
-nav_order: 999999999
+permalink: /contact
+nav_exclude: true
 ---
 
 E-mail: [segfault@stressd.xyz](segfault@stressd.xyz)  

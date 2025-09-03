@@ -1,7 +1,8 @@
 ---
 title: Clutterknights
 layout: default
-nav_order: 2
+permalink: /clutterknights
+parent: Home
 ---
 
 # Clutterknights
@@ -60,4 +61,4 @@ nav_order: 2
 
 [^1]: By definition, Ulpianus S3 fits all of the above due to the thingy he spawns on his original position.
 [^2]: S3 is recommended as it summons more freelings.
-[^3]: S3 is recommended as it summons more revenant's shadows. 
+[^3]: S3 is recommended as it summons more revenant's shadows.

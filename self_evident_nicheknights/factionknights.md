@@ -2,6 +2,7 @@
 title: Factionknights
 layout: default
 parent: Self-evident Nicheknights
+permalink: factionknights
 ---
 
 # Factionknights

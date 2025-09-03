@@ -2,6 +2,7 @@
 title: Classknights
 layout: default
 parent: Self-evident Nicheknights
+permalink: classknights
 ---
 
 # Classknights

@@ -1,7 +1,8 @@
 ---
 title: Freeknights
 layout: default
-nav_order: 2
+permalink: /freeknights
+parent: Home
 ---
 
 # Freeknights

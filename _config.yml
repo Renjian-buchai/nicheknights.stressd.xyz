@@ -5,7 +5,8 @@ theme: just-the-docs
 url: https://nicheknights.stressd.xyz
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Arknights Wiki: https://arknights.wiki.gg/
+  Contact: /contact
 
 ruby sass: 
   quiet_deps: true

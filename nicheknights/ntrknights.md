@@ -1,7 +1,8 @@
 ---
 title: NTRKnights
 layout: default
-nav_order: 2
+permalink: /ntrknights
+parent: Home
 ---
 
 # NTRKnights

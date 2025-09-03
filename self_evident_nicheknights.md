@@ -2,6 +2,8 @@
 title: Self-evident Nicheknights
 layout: default
 nav_order: 1
+parent: Home
+permalink: /self-evident-nicheknights
 ---
 
 # Self-evident Nicheknights
