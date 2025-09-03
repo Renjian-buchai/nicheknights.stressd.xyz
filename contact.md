@@ -1,6 +1,6 @@
 ---
 title: Contact
-layout: default
+layout: about
 nav_order: 999999999
 ---
 
