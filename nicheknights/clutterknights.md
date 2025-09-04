@@ -9,6 +9,8 @@ parent: Home
 
 "If I can't stand there, no one else can"
 
+Proposed on [clutterknights](https://clutterknights.carrd.co/)
+
 ## Rules
 
 - The unit must summon objects to other tiles.  
