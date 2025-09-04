@@ -1,6 +1,7 @@
 ---
 title: Tier List
 layout: default
+permalink: /tierlist
 ---
 
 # Tier List
