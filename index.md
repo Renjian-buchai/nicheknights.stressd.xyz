@@ -19,6 +19,7 @@ Nicheknights yay
 | 1 Tile Only | Only one tile on the field can be occupied throughout map. A stricter version of the 1P Relay. Deployable objects, e.g. Interference Mines, Mr. Boom, etc. are generally not allowed outside of the specific tile. |
 | Speedrun | Clear a stage as fast as possible. Time is measured at 2x speed. Usually done to optimise farming |
 | Boss Speedrun | Kill a boss as fast as possible. Time is measured at 2x speed from the point the boss is technically killable. |
+| 1-Frame-Kill | Kill all enemies within 1 frame of them spawning from the red box. |
 
 ## Miscellaneous Nicheknights that I've heard about, but have no evidence for existing
 
