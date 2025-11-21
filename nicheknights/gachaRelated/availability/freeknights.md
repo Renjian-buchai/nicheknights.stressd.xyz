@@ -16,6 +16,10 @@ Working for my operators? Imagine that.
 {: .note }
 > Some players do not believe that freeknights players should be allowed to obtain potentials through recruitments. Getting potentials is irreversible, so please take note of this!
 
+## Child niches
+
+[Welfareknights](/welfareknights)
+
 ## Accepted Operators
 
 | Operator | Method of Recruitment |
@@ -37,4 +41,4 @@ Working for my operators? Imagine that.
 | Lancet-2 | TR-10 |
 | Shaw | 1-10 |
 | THRM-EX | 7-2 |
-| [Welfare Operators](https://arknights.fandom.com/wiki/Operator/Welfare) | - |
+| [Welfare Operators](https://arknights.wiki.gg/wiki/Operator/Welfare) | - |
