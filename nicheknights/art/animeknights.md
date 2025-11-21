@@ -2,7 +2,7 @@
 title: Animeknights
 layout: default
 permalink: /animeknights
-parent: Home
+parent: Artknights
 ---
 
 # Animeknights

@@ -1,7 +1,7 @@
 ---
 title: Sleepknights
 layout: default
-parent: Home
+parent: Status Knights
 permalink: sleepknights
 ---
 
@@ -9,7 +9,7 @@ permalink: sleepknights
 
 - Operator must inflict sleep or have the ability to target sleeping enemies.
 
-# Accepted Operators
+## Accepted Operators
 
 | Operator | Source |
 | --- | --- |

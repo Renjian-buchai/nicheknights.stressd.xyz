@@ -2,7 +2,7 @@
 title: Freeknights
 layout: default
 permalink: /freeknights
-parent: Home
+parent: Availability
 ---
 
 # Freeknights

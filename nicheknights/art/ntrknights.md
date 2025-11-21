@@ -2,7 +2,7 @@
 title: NTRKnights
 layout: default
 permalink: /ntrknights
-parent: Home
+parent: Artknights
 ---
 
 # NTRKnights

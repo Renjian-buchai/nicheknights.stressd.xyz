@@ -2,7 +2,7 @@
 title: Heituknights
 layout: default
 permalink: /heituknights
-parent: Home
+parent: Artistknights
 ---
 
 # Heituknights

@@ -1,7 +1,7 @@
 ---
 title: Swimsuitknights
 layout: default
-parent: Home
+parent: Clothing Lines
 permalink: swimsuitknights
 ---
 

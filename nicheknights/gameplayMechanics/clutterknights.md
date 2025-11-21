@@ -2,7 +2,7 @@
 title: Clutterknights
 layout: default
 permalink: /clutterknights
-parent: Home
+parent: Gameplay-related Nicheknights
 ---
 
 # Clutterknights
@@ -21,6 +21,10 @@ Proposed on [clutterknights](https://clutterknights.carrd.co/)
   This rules out most summoners and operators that mimic them.
 - The unit mustn't be from the summoner class  
   This rules out summoner with the X module.
+
+## Parent Niches
+
+[Pseudosummoners](/pseudoSummoners)
 
 ## Archetype List
 
@@ -47,6 +51,8 @@ Proposed on [clutterknights](https://clutterknights.carrd.co/)
 | W | S2 |
 | Ulpianus | S3[^1] |
 | Seige Alter | S3 |
+| Exusiai Alter | S3 |
+| Phantom Alter | S2/3 |
 
 ## Other Acceptable Operators
 
